@@ -1,0 +1,4 @@
+# Prawn + Rspec + Capybara + PDF-Inspector
+
+This is the a example of how to use Prawn + Rspec + Capybara + PDF-Inspector to test a PDF.
+
