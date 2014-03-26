@@ -2,5 +2,5 @@
 
 This is the a example of how to use Prawn + Rspec + Capybara + PDF-Inspector to test a PDF.
 
-Post Blog: [http://jacksonpires.blogspot.com.br/2014/03/how-to-test-prawn-rspec-capybara-on.html](http://jacksonpires.blogspot.com.br/2014/03/how-to-test-prawn-rspec-capybara-on.html)
+Post Blog: http://jacksonpires.blogspot.com.br/2014/03/how-to-test-prawn-rspec-capybara-on.html
 
